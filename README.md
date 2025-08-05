@@ -4,8 +4,6 @@ This is a web application that predicts handwritten digits using a deep learning
 
 <br>
 
-![screenshot](https://media.istockphoto.com/id/1281736074/vector/abstract-geometric-pattern-background.jpg?s=612x612&k=20&c=rTHAuJPGgbaGZCDh6PAoVkJr3mTvn5WppwDHAPfNgoU=)
-
 ---
 
 ## 🚀 Features

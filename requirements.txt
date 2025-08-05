@@ -1,0 +1,4 @@
+flask
+pyngrok
+tensorflow
+Pillow
